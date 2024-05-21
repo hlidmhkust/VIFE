@@ -4,7 +4,7 @@ Code for journal Paper [Tackling Distribution Shifts in Task-Oriented Communicat
 
 Author: Hongru LI, Jiawei SHAO, Hengtao HE, Shenghui SONG, Jun ZHANG, Khaled B. LETAIEF
 
-Email: <a href="mailto:hlidm@connect.ust.hk">hlidm@connect.ust.hk</a>(Hongru LI), please feel free to email to me for any issue of this paper or any other research-related purporse:blush:. 
+Email: <a href="mailto:hlidm@connect.ust.hk">hlidm@connect.ust.hk</a>(Hongru LI), please feel free to email to me for any issue of this paper or any other research-related purporse :blush: . 
 
 Will release source code once accepted. 
 
