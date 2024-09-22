@@ -8,7 +8,6 @@ Email: <a href="mailto:hlidm@connect.ust.hk">hlidm@connect.ust.hk</a>(Hongru LI)
 
 Will release source code once accepted. 
 
-The source code of this work can be partially found in our [conference repo](https://github.com/hlidmhkust/VCCIB).
 
 
 
